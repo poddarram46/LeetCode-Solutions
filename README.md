@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0493-reverse-pairs](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
