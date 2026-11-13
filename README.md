@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0493-reverse-pairs](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/poddarram46/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/poddarram46/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
